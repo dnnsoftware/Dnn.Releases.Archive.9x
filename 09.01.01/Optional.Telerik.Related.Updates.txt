@@ -1,0 +1,18 @@
+Optional Telerik Related Updates
+
+1. There are two more installable packages being shipped
+  a. DNNCE_HtmlEditorManager_09.01.01_Install.zip
+  b. RadEditorProvider_09.01.01_Install.zip
+
+
+2. These should only be applied if site is using Rad Editor Provider. If site is using CK Editor, then they are not needed.
+
+3. These packages resolve the side affect of the Security Update in June 2017, where the Hyper Link Manager in Rad Editor doesn't automatically list the pages from the site. 
+
+4. More details about security can be found here: http://www.dnnsoftware.com/community-blog/cid/155436/critical-security-update--june-2017
+
+5. These extensions should be installed once your site has been upgraded to DNN Platform 9.1.1 or Evoq 9.1.1. 
+
+6. The same packages are applicable to both DNN Platform and Evoq.
+
+
